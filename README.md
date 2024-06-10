@@ -9,8 +9,8 @@ A simple compiler for a custom programming language that supports basic arithmet
 - BISON
 - G++
 
-If you are struggling to install these tools, follow my article
-<https://medium.com/@khalid.hasan1/a-beginners-guide-to-installing-compiler-tools-llvm-flex-bison-on-windows-c79374a0c108>
+If you are struggling to install these tools, follow my [article] (<https://medium.com/@khalid.hasan1/a-beginners-guide-to-installing-compiler-tools-llvm-flex-bison-on-windows-c79374a0c108>)
+
 here, I have made a step-by-step guide on how to install these tools.
 
 Here's how to properly format your guide on how to run the code in Markdown:
